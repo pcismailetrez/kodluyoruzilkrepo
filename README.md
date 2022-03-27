@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+ilk repom benim
